@@ -35,7 +35,7 @@
     }else{
         NSLog(@"Boxes are the same.");     //otherwise boxes are the same
     }
-    return numbofFits;    //return how many times bigger box fits into smaller
+    return numbofFits;    //return how many times smaller box fits into bigger
 }
 
 
